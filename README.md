@@ -1,28 +1,29 @@
 # AI Practice Projects 🚀
 
-Welcome to your AI learning journey! This repository contains two simple, independent AI projects for practice purposes.
+Welcome to your AI learning journey!  
+This repository contains two beginner-friendly AI projects designed for **hands-on practice** with Machine Learning (ML) and Deep Learning (DL).
+
+---
 
 ## 📁 Project Structure
 
-- **`linear_regression_project/`** - House price prediction using basic ML
-- **`neural_network_project/`** - Digit classification using deep learning
+- **`linear_regression_project/`**  
+  📊 **House Price Prediction using Linear Regression**  
+  - Learn how regression works in ML.  
+  - Dataset-based training to predict house prices.  
+  - Focus on understanding relationships between features and target values.  
 
-## 🎯 What You'll Learn
+- **`neural_network_project/`**  
+  🔢 **Digit Classification using a Simple Neural Network**  
+  - Build and train a neural network from scratch.  
+  - Classify handwritten digits (0–9).  
+  - Learn about layers, activation functions, training, and evaluation.  
 
-- **Basic Machine Learning**: Linear regression, data handling, model training
-- **Deep Learning**: Neural networks, training process, image classification
-- **Data Science**: Working with datasets, visualization, model evaluation
-- **Python Programming**: Libraries like NumPy, Pandas, Scikit-learn, TensorFlow
+---
 
-## 🚀 Getting Started
+## 🚀 How to Run
 
-1. Navigate to any project folder
-2. Install requirements: `pip install -r requirements.txt`
-3. Run the main Python file
-4. Follow the README in each project folder
-
-## 📚 Learning Path
-
-Start with **Project 1** (Linear Regression) to understand basic ML concepts, then move to **Project 2** (Neural Network) for deep learning.
-
-Happy coding! 🎉 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/rohitankalkhope/AI_1.git
+   cd AI_1
