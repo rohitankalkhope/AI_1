@@ -1,6 +1,5 @@
 # AI Practice Projects 🚀
-
-Welcome to your AI learning journey!  
+  
 This repository contains two beginner-friendly AI projects designed for **hands-on practice** with Machine Learning (ML) and Deep Learning (DL).
 
 ---
